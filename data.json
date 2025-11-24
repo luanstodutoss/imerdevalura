@@ -1,0 +1,2406 @@
+[
+  {
+    "nome": "Go",
+    "descricao": "Linguagem de programação compilada e tipada estaticamente, desenvolvida pelo Google, focada em eficiência e concorrência.",
+    "data_criacao": "2009",
+    "link": "https://go.dev/",
+    "tags": [
+      "linguagem de programação",
+      "backend",
+      "concorrência",
+      "sistemas distribuídos",
+      "google"
+    ]
+  },
+  {
+    "nome": "Rust",
+    "descricao": "Linguagem de programação de sistemas focada em segurança, especialmente memória segura, e alto desempenho.",
+    "data_criacao": "2010",
+    "link": "https://www.rust-lang.org/",
+    "tags": [
+      "linguagem de programação",
+      "programação de sistemas",
+      "performance",
+      "memória segura"
+    ]
+  },
+  {
+    "nome": "TypeScript",
+    "descricao": "Superset do JavaScript que adiciona tipagem estática opcional, compilando para JavaScript puro.",
+    "data_criacao": "2012",
+    "link": "https://www.typescriptlang.org/",
+    "tags": [
+      "linguagem de programação",
+      "frontend",
+      "backend",
+      "tipagem estática"
+    ]
+  },
+  {
+    "nome": "Kotlin",
+    "descricao": "Linguagem de programação moderna, concisa e pragmática que roda na Máquina Virtual Java (JVM) e é oficialmente suportada para desenvolvimento Android.",
+    "data_criacao": "2011",
+    "link": "https://kotlinlang.org/",
+    "tags": [
+      "linguagem de programação",
+      "android",
+      "backend",
+      "jvm"
+    ]
+  },
+  {
+    "nome": "React",
+    "descricao": "Biblioteca JavaScript declarativa, eficiente e flexível para a criação de interfaces de usuário baseadas em componentes.",
+    "data_criacao": "2013",
+    "link": "https://react.dev/",
+    "tags": [
+      "biblioteca",
+      "frontend",
+      "ui/ux",
+      "javascript"
+    ]
+  },
+  {
+    "nome": "Vue.js",
+    "descricao": "Framework progressivo para a construção de interfaces de usuário, conhecido por sua facilidade de aprendizado e integração.",
+    "data_criacao": "2014",
+    "link": "https://vuejs.org/",
+    "tags": [
+      "framework",
+      "frontend",
+      "javascript",
+      "desenvolvimento web"
+    ]
+  },
+  {
+    "nome": "Angular",
+    "descricao": "Plataforma e framework baseada em TypeScript para construir aplicações web e móveis escaláveis de página única (SPA).",
+    "data_criacao": "2010",
+    "link": "https://angular.io/",
+    "tags": [
+      "framework",
+      "frontend",
+      "typescript",
+      "spa"
+    ]
+  },
+  {
+    "nome": "Node.js",
+    "descricao": "Ambiente de execução JavaScript open-source e cross-platform que permite a execução de código JavaScript no lado do servidor.",
+    "data_criacao": "2009",
+    "link": "https://nodejs.org/en",
+    "tags": [
+      "runtime",
+      "backend",
+      "javascript",
+      "servidor"
+    ]
+  },
+  {
+    "nome": "Spring Boot",
+    "descricao": "Framework que facilita a criação de aplicações Spring autônomas e prontas para produção, minimizando a configuração boilerplate.",
+    "data_criacao": "2014",
+    "link": "https://spring.io/projects/spring-boot",
+    "tags": [
+      "framework",
+      "backend",
+      "microsserviços",
+      "java"
+    ]
+  },
+  {
+    "nome": "Docker",
+    "descricao": "Plataforma que utiliza conteinerização para empacotar aplicações e suas dependências, garantindo que rodem de forma consistente em qualquer ambiente.",
+    "data_criacao": "2013",
+    "link": "https://www.docker.com/",
+    "tags": [
+      "virtualização",
+      "devops",
+      "containers",
+      "orquestração"
+    ]
+  },
+  {
+    "nome": "Kubernetes",
+    "descricao": "Sistema open-source para automatizar a implantação, escalonamento e gerenciamento de aplicações conteinerizadas.",
+    "data_criacao": "2014",
+    "link": "https://kubernetes.io/",
+    "tags": [
+      "orquestração",
+      "devops",
+      "cloud",
+      "containers"
+    ]
+  },
+  {
+    "nome": "Terraform",
+    "descricao": "Ferramenta de Infraestrutura como Código (IaC) que permite provisionar e gerenciar recursos de infraestrutura em nuvem (AWS, Azure, GCP) usando arquivos de configuração.",
+    "data_criacao": "2014",
+    "link": "https://www.terraform.io/",
+    "tags": [
+      "iac",
+      "devops",
+      "automação",
+      "cloud"
+    ]
+  },
+  {
+    "nome": "MongoDB",
+    "descricao": "Banco de dados NoSQL baseado em documentos, conhecido por sua alta escalabilidade e flexibilidade de esquema.",
+    "data_criacao": "2009",
+    "link": "https://www.mongodb.com/",
+    "tags": [
+      "banco de dados",
+      "nosql",
+      "documentos",
+      "escalabilidade"
+    ]
+  },
+  {
+    "nome": "PostgreSQL",
+    "descricao": "Sistema de gerenciamento de banco de dados objeto-relacional open-source robusto, conhecido por sua extensibilidade e conformidade com padrões SQL.",
+    "data_criacao": "1996",
+    "link": "https://www.postgresql.org/",
+    "tags": [
+      "banco de dados",
+      "relacional",
+      "sql",
+      "open source"
+    ]
+  },
+  {
+    "nome": "Redis",
+    "descricao": "Armazenamento de estrutura de dados em memória, frequentemente usado como cache, broker de mensagens e banco de dados NoSQL rápido.",
+    "data_criacao": "2009",
+    "link": "https://redis.io/",
+    "tags": [
+      "banco de dados",
+      "cache",
+      "nosql",
+      "in-memory"
+    ]
+  },
+  {
+    "nome": "AWS Lambda",
+    "descricao": "Serviço de computação serverless que permite executar código em resposta a eventos sem provisionar ou gerenciar servidores.",
+    "data_criacao": "2014",
+    "link": "https://aws.amazon.com/lambda/",
+    "tags": [
+      "serverless",
+      "cloud computing",
+      "aws",
+      "funções"
+    ]
+  },
+  {
+    "nome": "GraphQL",
+    "descricao": "Linguagem de consulta para APIs desenvolvida pelo Facebook, permitindo que os clientes solicitem exatamente os dados de que precisam.",
+    "data_criacao": "2012",
+    "link": "https://graphql.org/",
+    "tags": [
+      "api",
+      "protocolo",
+      "frontend",
+      "dados"
+    ]
+  },
+  {
+    "nome": "Swift",
+    "descricao": "Linguagem de programação multi-paradigma desenvolvida pela Apple para iOS, macOS, watchOS e tvOS, focada em segurança e performance.",
+    "data_criacao": "2014",
+    "link": "https://www.swift.org/",
+    "tags": [
+      "linguagem de programação",
+      "ios",
+      "mobile",
+      "apple"
+    ]
+  },
+  {
+    "nome": "Flutter",
+    "descricao": "Kit de ferramentas de UI do Google para a construção de aplicações compiladas nativamente para mobile, web e desktop a partir de uma única base de código.",
+    "data_criacao": "2017",
+    "link": "https://flutter.dev/",
+    "tags": [
+      "mobile",
+      "cross-platform",
+      "framework",
+      "dart"
+    ]
+  },
+  {
+    "nome": "Dart",
+    "descricao": "Linguagem de programação otimizada para o cliente, desenvolvida pelo Google, usada para construir interfaces de usuário rápidas no Flutter.",
+    "data_criacao": "2011",
+    "link": "https://dart.dev/",
+    "tags": [
+      "linguagem de programação",
+      "mobile",
+      "frontend",
+      "flutter"
+    ]
+  },
+  {
+    "nome": "Apache Kafka",
+    "descricao": "Plataforma de streaming distribuída que permite o desenvolvimento de pipelines de dados em tempo real e aplicações de streaming.",
+    "data_criacao": "2011",
+    "link": "https://kafka.apache.org/",
+    "tags": [
+      "streaming",
+      "mensageria",
+      "big data",
+      "microsserviços"
+    ]
+  },
+  {
+    "nome": "TensorFlow",
+    "descricao": "Plataforma open-source e abrangente para aprendizado de máquina e aprendizado profundo (deep learning), desenvolvida pelo Google.",
+    "data_criacao": "2015",
+    "link": "https://www.tensorflow.org/",
+    "tags": [
+      "machine learning",
+      "ia",
+      "biblioteca",
+      "deep learning"
+    ]
+  },
+  {
+    "nome": "Svelte",
+    "descricao": "Estrutura de desenvolvimento web que move o trabalho reativo para a etapa de compilação, resultando em código de aplicação muito mais rápido e menor.",
+    "data_criacao": "2016",
+    "link": "https://svelte.dev/",
+    "tags": [
+      "framework",
+      "frontend",
+      "compilador",
+      "web development"
+    ]
+  },
+  {
+    "nome": "Next.js",
+    "descricao": "Framework React para produção que facilita a criação de aplicações de alto desempenho com Server-Side Rendering (SSR) e Geração Estática.",
+    "data_criacao": "2016",
+    "link": "https://nextjs.org/",
+    "tags": [
+      "framework",
+      "frontend",
+      "react",
+      "ssr",
+      "web performance"
+    ]
+  },
+  {
+    "nome": "GitLab",
+    "descricao": "Plataforma unificada que abrange todo o ciclo de vida de DevOps, desde o planejamento do projeto até o monitoramento da produção.",
+    "data_criacao": "2011",
+    "link": "https://about.gitlab.com/",
+    "tags": [
+      "devops",
+      "ci/cd",
+      "repositório",
+      "colaboração"
+    ]
+  },
+  {
+    "nome": "C#",
+    "descricao": "Linguagem de programação orientada a objetos desenvolvida pela Microsoft, amplamente usada para aplicações Windows, web (ASP.NET) e jogos (Unity).",
+    "data_criacao": "2000",
+    "link": "https://docs.microsoft.com/pt-br/dotnet/csharp/",
+    "tags": [
+      "linguagem de programação",
+      "backend",
+      "microsoft",
+      "oop"
+    ]
+  },
+  {
+    "nome": "Django",
+    "descricao": "Framework web de alto nível em Python que incentiva o desenvolvimento rápido e design limpo e pragmático. Segue o princípio DRY (Don't Repeat Yourself).",
+    "data_criacao": "2005",
+    "link": "https://www.djangoproject.com/",
+    "tags": [
+      "framework",
+      "python",
+      "backend",
+      "web"
+    ]
+  },
+  {
+    "nome": "Laravel",
+    "descricao": "Framework PHP com sintaxe elegante, popular para construir aplicações web robustas e escaláveis, seguindo o padrão MVC.",
+    "data_criacao": "2011",
+    "link": "https://laravel.com/",
+    "tags": [
+      "framework",
+      "php",
+      "backend",
+      "mvc"
+    ]
+  },
+  {
+    "nome": "MySQL",
+    "descricao": "Um dos sistemas de gerenciamento de banco de dados relacional (RDBMS) de código aberto mais populares do mundo.",
+    "data_criacao": "1995",
+    "link": "https://www.mysql.com/",
+    "tags": [
+      "banco de dados",
+      "sql",
+      "relacional",
+      "open source"
+    ]
+  },
+  {
+    "nome": "Cassandra",
+    "descricao": "Banco de dados NoSQL distribuído e altamente escalável, projetado para lidar com grandes volumes de dados em vários servidores.",
+    "data_criacao": "2008",
+    "link": "https://cassandra.apache.org/",
+    "tags": [
+      "banco de dados",
+      "nosql",
+      "distribuído",
+      "apache"
+    ]
+  },
+  {
+    "nome": "Elasticsearch",
+    "descricao": "Mecanismo de busca e análise distribuído, construído sobre o Apache Lucene, frequentemente usado para logs, métricas e busca em tempo real.",
+    "data_criacao": "2010",
+    "link": "https://www.elastic.co/elasticsearch/",
+    "tags": [
+      "busca",
+      "analíticos",
+      "banco de dados",
+      "devops"
+    ]
+  },
+  {
+    "nome": "RabbitMQ",
+    "descricao": "Um broker de mensagens de código aberto que implementa o Advanced Message Queuing Protocol (AMQP), facilitando a comunicação assíncrona entre serviços.",
+    "data_criacao": "2007",
+    "link": "https://www.rabbitmq.com/",
+    "tags": [
+      "mensageria",
+      "broker",
+      "assíncrono",
+      "microserviços"
+    ]
+  },
+  {
+    "nome": "Azure Functions",
+    "descricao": "Solução de computação serverless baseada em eventos da Microsoft Azure, permitindo executar pequenos blocos de código ('funções') sem gerenciar infraestrutura.",
+    "data_criacao": "2016",
+    "link": "https://azure.microsoft.com/en-us/products/functions/",
+    "tags": [
+      "cloud",
+      "serverless",
+      "faas",
+      "microsoft azure"
+    ]
+  },
+  {
+    "nome": "Heroku",
+    "descricao": "Plataforma em nuvem (PaaS) que permite aos desenvolvedores construir, executar e operar aplicações inteiramente na nuvem.",
+    "data_criacao": "2007",
+    "link": "https://www.heroku.com/",
+    "tags": [
+      "cloud",
+      "paas",
+      "deploy",
+      "devops"
+    ]
+  },
+  {
+    "nome": "Jenkins",
+    "descricao": "Servidor de automação de código aberto amplamente utilizado para orquestrar pipelines de integração contínua e entrega contínua (CI/CD).",
+    "data_criacao": "2011",
+    "link": "https://www.jenkins.io/",
+    "tags": [
+      "devops",
+      "ci/cd",
+      "automação",
+      "ferramenta"
+    ]
+  },
+  {
+    "nome": "Ansible",
+    "descricao": "Ferramenta de automação de TI de código aberto que permite gerenciar a configuração de software, o provisionamento e o deploy de aplicações.",
+    "data_criacao": "2012",
+    "link": "https://www.ansible.com/",
+    "tags": [
+      "devops",
+      "configuração",
+      "automação",
+      "infraestrutura como código"
+    ]
+  },
+  {
+    "nome": "Prometheus",
+    "descricao": "Sistema de monitoramento e alerta de código aberto projetado para ambientes de microsserviços e muito popular em infraestruturas baseadas em contêineres.",
+    "data_criacao": "2012",
+    "link": "https://prometheus.io/",
+    "tags": [
+      "monitoramento",
+      "observabilidade",
+      "devops",
+      "métricas"
+    ]
+  },
+  {
+    "nome": "Zustand",
+    "descricao": "Biblioteca de gerenciamento de estado leve e escalável para aplicações React, baseada em hooks e com uma API simples.",
+    "data_criacao": "2020",
+    "link": "https://zustand-bear.pmnd.rs/",
+    "tags": [
+      "frontend",
+      "gerenciamento de estado",
+      "biblioteca",
+      "react"
+    ]
+  },
+  {
+    "nome": "Tailwind CSS",
+    "descricao": "Framework CSS utility-first que permite construir designs rapidamente, aplicando classes diretamente no markup HTML.",
+    "data_criacao": "2017",
+    "link": "https://tailwindcss.com/",
+    "tags": [
+      "frontend",
+      "css",
+      "styling",
+      "framework"
+    ]
+  },
+  {
+    "nome": "React Native",
+    "descricao": "Framework para desenvolvimento de aplicativos móveis nativos utilizando JavaScript e a biblioteca React, permitindo código compartilhado entre iOS e Android.",
+    "data_criacao": "2015",
+    "link": "https://reactnative.dev/",
+    "tags": [
+      "mobile",
+      "cross-platform",
+      "framework",
+      "javascript"
+    ]
+  },
+  {
+    "nome": "PyTorch",
+    "descricao": "Framework de código aberto para aprendizado de máquina, focado em facilidade de uso e flexibilidade, popular em pesquisa de Deep Learning.",
+    "data_criacao": "2016",
+    "link": "https://pytorch.org/",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "inteligência artificial",
+      "framework"
+    ]
+  },
+  {
+    "nome": "Podman",
+    "descricao": "Mecanismo de contêineres de código aberto compatível com a API OCI, frequentemente usado como uma alternativa sem daemon ao Docker.",
+    "data_criacao": "2017",
+    "link": "https://podman.io/",
+    "tags": [
+      "contêineres",
+      "runtime",
+      "devops",
+      "linux"
+    ]
+  },
+  {
+    "nome": "WebAssembly (Wasm)",
+    "descricao": "Padrão de formato de código binário que pode ser executado em navegadores modernos, oferecendo desempenho próximo ao nativo para a web.",
+    "data_criacao": "2017",
+    "link": "https://webassembly.org/",
+    "tags": [
+      "web",
+      "performance",
+      "linguagem de baixo nível",
+      "padrão"
+    ]
+  },
+  {
+    "nome": "Jest",
+    "descricao": "Framework de teste em JavaScript focado em simplicidade, amplamente utilizado para testar código frontend e backend.",
+    "data_criacao": "2014",
+    "link": "https://jestjs.io/",
+    "tags": [
+      "testes",
+      "javascript",
+      "framework",
+      "frontend"
+    ]
+  },
+  {
+    "nome": "Nginx",
+    "descricao": "Servidor web de alto desempenho e proxy reverso, conhecido por sua eficiência e capacidade de lidar com muitas conexões simultâneas.",
+    "data_criacao": "2004",
+    "link": "https://www.nginx.com/",
+    "tags": [
+      "servidor web",
+      "proxy reverso",
+      "balanceamento de carga",
+      "devops"
+    ]
+  },
+  {
+    "nome": "Kong",
+    "descricao": "Gateway de API e Service Mesh de código aberto, usado para gerenciar, proteger e estender APIs e microserviços.",
+    "data_criacao": "2015",
+    "link": "https://konghq.com/",
+    "tags": [
+      "api gateway",
+      "microserviços",
+      "rede",
+      "segurança"
+    ]
+  },
+  {
+    "nome": "Istio",
+    "descricao": "Malha de serviços (Service Mesh) de código aberto que fornece uma maneira uniforme de conectar, proteger, controlar e observar microsserviços.",
+    "data_criacao": "2017",
+    "link": "https://istio.io/",
+    "tags": [
+      "service mesh",
+      "microserviços",
+      "networking",
+      "devops"
+    ]
+  },
+  {
+    "nome": "Memcached",
+    "descricao": "Sistema de cache de objetos na memória distribuído e de código aberto, geralmente usado para acelerar aplicações web dinâmicas.",
+    "data_criacao": "2003",
+    "link": "https://memcached.org/",
+    "tags": [
+      "cache",
+      "banco de dados",
+      "in-memory",
+      "chave-valor"
+    ]
+  },
+  {
+    "nome": "Pandas",
+    "descricao": "Biblioteca Python amplamente utilizada para manipulação e análise de dados. Fornece estruturas de dados e operações para manipular tabelas numéricas e séries temporais.",
+    "data_criacao": "2008",
+    "link": "https://pandas.pydata.org/",
+    "tags": [
+      "data science",
+      "python",
+      "análise de dados",
+      "biblioteca"
+    ]
+  },
+  {
+    "nome": "Scrum",
+    "descricao": "Framework ágil para gerenciar projetos de software, caracterizado por iterações curtas (Sprints) e papéis definidos (Scrum Master, Product Owner).",
+    "data_criacao": "1990",
+    "link": "https://www.scrum.org/",
+    "tags": [
+      "metodologia ágil",
+      "gestão de projetos",
+      "framework",
+      "processo"
+    ]
+  },
+  {
+    "nome": "Haskell",
+    "descricao": "Linguagem de programação funcional pura e preguiçosa, conhecida por sua forte tipagem estática e segurança de código.",
+    "data_criacao": "1990",
+    "link": "https://www.haskell.org/",
+    "tags": [
+      "linguagem de programação",
+      "funcional",
+      "estática",
+      "matemática"
+    ]
+  },
+  {
+    "nome": "Erlang",
+    "descricao": "Linguagem de programação projetada para construir sistemas distribuídos, tolerantes a falhas e de alta concorrência, muito usada em telecomunicações.",
+    "data_criacao": "1986",
+    "link": "https://www.erlang.org/",
+    "tags": [
+      "linguagem de programação",
+      "concorrência",
+      "distribuído",
+      "backend"
+    ]
+  },
+  {
+    "nome": "Scala",
+    "descricao": "Linguagem que combina recursos de linguagens orientadas a objetos e funcionais, rodando na Java Virtual Machine (JVM).",
+    "data_criacao": "2003",
+    "link": "https://www.scala-lang.org/",
+    "tags": [
+      "linguagem de programação",
+      "jvm",
+      "funcional",
+      "orientada a objetos"
+    ]
+  },
+  {
+    "nome": "Clojure",
+    "descricao": "Dialeto moderno da linguagem Lisp, projetado para concorrência e rodando principalmente na JVM, focado em imutabilidade.",
+    "data_criacao": "2007",
+    "link": "https://clojure.org/",
+    "tags": [
+      "linguagem de programação",
+      "jvm",
+      "funcional",
+      "lisp"
+    ]
+  },
+  {
+    "nome": "PHP",
+    "descricao": "Linguagem de script de uso geral voltada principalmente para o desenvolvimento web, embarcada em HTML.",
+    "data_criacao": "1995",
+    "link": "https://www.php.net/",
+    "tags": [
+      "linguagem de programação",
+      "backend",
+      "web development",
+      "scripting"
+    ]
+  },
+  {
+    "nome": "ASP.NET Core",
+    "descricao": "Framework de código aberto e multiplataforma da Microsoft para criar aplicativos modernos baseados na nuvem e conectados à internet.",
+    "data_criacao": "2016",
+    "link": "https://dotnet.microsoft.com/apps/aspnet",
+    "tags": [
+      "framework",
+      "backend",
+      "microsoft",
+      "multiplataforma"
+    ]
+  },
+  {
+    "nome": "JQuery",
+    "descricao": "Biblioteca JavaScript rápida, pequena e rica em recursos que facilita a manipulação do DOM, tratamento de eventos e animações.",
+    "data_criacao": "2006",
+    "link": "https://jquery.com/",
+    "tags": [
+      "biblioteca",
+      "frontend",
+      "javascript",
+      "manipulação dom"
+    ]
+  },
+  {
+    "nome": "Bootstrap",
+    "descricao": "Framework de front-end de código aberto para desenvolver projetos responsivos e mobile-first na web.",
+    "data_criacao": "2011",
+    "link": "https://getbootstrap.com/",
+    "tags": [
+      "framework",
+      "frontend",
+      "css",
+      "design",
+      "responsivo"
+    ]
+  },
+  {
+    "nome": "SolidJS",
+    "descricao": "Biblioteca JavaScript declarativa para criar interfaces de usuário, utilizando um modelo reativo diferente que evita o Virtual DOM.",
+    "data_criacao": "2020",
+    "link": "https://www.solidjs.com/",
+    "tags": [
+      "biblioteca",
+      "frontend",
+      "reatividade",
+      "javascript"
+    ]
+  },
+  {
+    "nome": "Phoenix",
+    "descricao": "Framework web produtivo que não sacrifica a velocidade e a manutenibilidade, construído sobre a linguagem Elixir.",
+    "data_criacao": "2014",
+    "link": "https://www.phoenixframework.org/",
+    "tags": [
+      "framework",
+      "elixir",
+      "backend",
+      "alta performance"
+    ]
+  },
+  {
+    "nome": "MariaDB",
+    "descricao": "Sistema de gerenciamento de banco de dados relacional de código aberto, um fork popular do MySQL.",
+    "data_criacao": "2009",
+    "link": "https://mariadb.org/",
+    "tags": [
+      "banco de dados",
+      "sql",
+      "relacional",
+      "open source"
+    ]
+  },
+  {
+    "nome": "Neo4j",
+    "descricao": "Banco de dados NoSQL baseado em grafos, otimizado para armazenar, gerenciar e analisar dados altamente interconectados.",
+    "data_criacao": "2007",
+    "link": "https://neo4j.com/",
+    "tags": [
+      "banco de dados",
+      "nosql",
+      "grafo",
+      "cypher"
+    ]
+  },
+  {
+    "nome": "SQLite",
+    "descricao": "Sistema de gerenciamento de banco de dados relacional que não requer um processo de servidor e é auto-contido e sem servidor.",
+    "data_criacao": "2000",
+    "link": "https://www.sqlite.org/",
+    "tags": [
+      "banco de dados",
+      "sql",
+      "embarcado",
+      "sem servidor"
+    ]
+  },
+  {
+    "nome": "DynamoDB",
+    "descricao": "Serviço de banco de dados NoSQL chave-valor e orientado a documentos, totalmente gerenciado pela Amazon Web Services (AWS).",
+    "data_criacao": "2012",
+    "link": "https://aws.amazon.com/dynamodb/",
+    "tags": [
+      "banco de dados",
+      "nosql",
+      "cloud",
+      "aws"
+    ]
+  },
+  {
+    "nome": "Maven",
+    "descricao": "Ferramenta de gerenciamento de projetos de software (principalmente Java) que automatiza a construção, dependências e relatórios.",
+    "data_criacao": "2004",
+    "link": "https://maven.apache.org/",
+    "tags": [
+      "ferramenta",
+      "java",
+      "build automation",
+      "gerenciamento de projetos"
+    ]
+  },
+  {
+    "nome": "Gradle",
+    "descricao": "Sistema de automação de construção que combina a flexibilidade do Ant com o gerenciamento de dependências do Maven.",
+    "data_criacao": "2007",
+    "link": "https://gradle.org/",
+    "tags": [
+      "ferramenta",
+      "build automation",
+      "jvm",
+      "devops"
+    ]
+  },
+  {
+    "nome": "Vite",
+    "descricao": "Ferramenta de construção e servidor de desenvolvimento frontend que oferece inicialização e recarregamento rápidos utilizando módulos ES nativos.",
+    "data_criacao": "2020",
+    "link": "https://vitejs.dev/",
+    "tags": [
+      "ferramenta",
+      "bundler",
+      "frontend",
+      "devops"
+    ]
+  },
+  {
+    "nome": "Deno",
+    "descricao": "Runtime seguro para JavaScript e TypeScript criado pelo desenvolvedor do Node.js, com foco em segurança e módulos ES nativos.",
+    "data_criacao": "2018",
+    "link": "https://deno.com/",
+    "tags": [
+      "runtime",
+      "servidor",
+      "typescript",
+      "javascript"
+    ]
+  },
+  {
+    "nome": "Vagrant",
+    "descricao": "Ferramenta para criar e gerenciar ambientes de desenvolvimento virtualizados e portáteis de forma fácil e replicável.",
+    "data_criacao": "2010",
+    "link": "https://www.vagrantup.com/",
+    "tags": [
+      "devops",
+      "virtualização",
+      "infraestrutura",
+      "ambiente de desenvolvimento"
+    ]
+  },
+  {
+    "nome": "Chef",
+    "descricao": "Plataforma de automação para transformar infraestrutura em código, gerenciando a configuração de servidores e aplicações.",
+    "data_criacao": "2009",
+    "link": "https://www.chef.io/",
+    "tags": [
+      "devops",
+      "configuração",
+      "iac",
+      "automação"
+    ]
+  },
+  {
+    "nome": "Cloudflare Workers",
+    "descricao": "Plataforma de computação sem servidor (serverless) que executa código em data centers da Cloudflare na borda da rede (edge).",
+    "data_criacao": "2017",
+    "link": "https://www.cloudflare.com/products/workers/",
+    "tags": [
+      "serverless",
+      "edge computing",
+      "cloud",
+      "rede"
+    ]
+  },
+  {
+    "nome": "OpenShift",
+    "descricao": "Plataforma de containers como serviço (PaaS) da Red Hat, baseada no Kubernetes, mas focada em experiência do desenvolvedor.",
+    "data_criacao": "2011",
+    "link": "https://www.openshift.com/",
+    "tags": [
+      "paas",
+      "containers",
+      "cloud",
+      "devops"
+    ]
+  },
+  {
+    "nome": "Consul",
+    "descricao": "Solução de service mesh da HashiCorp para descoberta de serviços, verificação de integridade e configuração distribuída.",
+    "data_criacao": "2014",
+    "link": "https://www.consul.io/",
+    "tags": [
+      "devops",
+      "microserviços",
+      "service mesh",
+      "infraestrutura"
+    ]
+  },
+  {
+    "nome": "Extreme Programming (XP)",
+    "descricao": "Metodologia ágil de desenvolvimento de software focada na entrega contínua, feedback rápido e práticas de engenharia de alta qualidade (como pareamento).",
+    "data_criacao": "1999",
+    "link": "https://www.extremeprogramming.org/",
+    "tags": [
+      "metodologia",
+      "ágil",
+      "desenvolvimento",
+      "engenharia de software"
+    ]
+  },
+  {
+    "nome": "Selenium",
+    "descricao": "Conjunto de ferramentas para automatizar navegadores web, usado principalmente para testes de aceitação e testes de regressão.",
+    "data_criacao": "2004",
+    "link": "https://www.selenium.dev/",
+    "tags": [
+      "ferramenta",
+      "testes automatizados",
+      "qa",
+      "web"
+    ]
+  },
+  {
+    "nome": "Elixir",
+    "descricao": "Linguagem de programação funcional, concorrente, construída sobre a Máquina Virtual Erlang (BEAM), focada em sistemas distribuídos e tolerantes a falhas.",
+    "data_criacao": "2012",
+    "link": "https://elixir-lang.org/",
+    "tags": [
+      "linguagem de programação",
+      "concorrência",
+      "funcional",
+      "backend"
+    ]
+  },
+  {
+    "nome": "Zig",
+    "descricao": "Linguagem de programação de uso geral, projetada para robustez, otimização e manutenção, servindo como uma alternativa moderna ao C.",
+    "data_criacao": "2016",
+    "link": "https://ziglang.org/",
+    "tags": [
+      "linguagem de programação",
+      "baixo nível",
+      "compilador"
+    ]
+  },
+  {
+    "nome": "Lit",
+    "descricao": "Biblioteca simples para construção rápida de componentes da Web leves e rápidos, baseada na especificação Web Components.",
+    "data_criacao": "2020",
+    "link": "https://lit.dev/",
+    "tags": [
+      "frontend",
+      "biblioteca",
+      "web components"
+    ]
+  },
+  {
+    "nome": "Remix",
+    "descricao": "Framework full-stack focado em web standards e desempenho, utilizando rotas aninhadas e APIs de navegador para construir interfaces resilientes.",
+    "data_criacao": "2020",
+    "link": "https://remix.run/",
+    "tags": [
+      "framework",
+      "full-stack",
+      "web performance"
+    ]
+  },
+  {
+    "nome": "Astro",
+    "descricao": "Construtor de sites focado em desempenho que envia zero JavaScript por padrão, permitindo 'ilhas' de interatividade onde necessário.",
+    "data_criacao": "2021",
+    "link": "https://astro.build/",
+    "tags": [
+      "static site generator",
+      "frontend",
+      "desempenho"
+    ]
+  },
+  {
+    "nome": "Quarkus",
+    "descricao": "Framework Java nativo de contêineres e Kubernetes, otimizado para footprint de memória baixa e tempo de inicialização rápido.",
+    "data_criacao": "2019",
+    "link": "https://quarkus.io/",
+    "tags": [
+      "java",
+      "framework",
+      "microserviços",
+      "backend"
+    ]
+  },
+  {
+    "nome": "FastAPI",
+    "descricao": "Framework web moderno e rápido para construir APIs em Python, baseado em tipagem padrão e assíncrono (async/await).",
+    "data_criacao": "2018",
+    "link": "https://fastapi.tiangolo.com/",
+    "tags": [
+      "framework",
+      "api",
+      "python",
+      "backend"
+    ]
+  },
+  {
+    "nome": "PlanetScale",
+    "descricao": "Plataforma de banco de dados serverless compatível com MySQL, construída em cima do Vitess, oferecendo escalabilidade horizontal e branchamento de dados.",
+    "data_criacao": "2020",
+    "link": "https://planetscale.com/",
+    "tags": [
+      "banco de dados",
+      "serverless",
+      "vitess"
+    ]
+  },
+  {
+    "nome": "CockroachDB",
+    "descricao": "Banco de dados SQL distribuído e tolerante a falhas, projetado para escalabilidade massiva e consistência forte.",
+    "data_criacao": "2014",
+    "link": "https://www.cockroachlabs.com/",
+    "tags": [
+      "banco de dados",
+      "distributed sql",
+      "tolerância a falhas"
+    ]
+  },
+  {
+    "nome": "FaunaDB",
+    "descricao": "Banco de dados transacional serverless, distribuído globalmente, com um modelo de dados flexível (Documento/Gráfico/Relacional).",
+    "data_criacao": "2017",
+    "link": "https://fauna.com/",
+    "tags": [
+      "banco de dados",
+      "serverless",
+      "nosql"
+    ]
+  },
+  {
+    "nome": "ClickHouse",
+    "descricao": "Banco de dados colunar de código aberto para processamento analítico online (OLAP), otimizado para consultas de alto desempenho em grandes volumes de dados.",
+    "data_criacao": "2016",
+    "link": "https://clickhouse.com/",
+    "tags": [
+      "banco de dados",
+      "analytics",
+      "olap"
+    ]
+  },
+  {
+    "nome": "Pulumi",
+    "descricao": "Ferramenta de Infraestrutura como Código que permite definir e gerenciar a infraestrutura em nuvem usando linguagens de programação de propósito geral (Python, JS, Go, C#).",
+    "data_criacao": "2018",
+    "link": "https://www.pulumi.com/",
+    "tags": [
+      "infraestrutura como código",
+      "devops",
+      "multi-cloud"
+    ]
+  },
+  {
+    "nome": "SaltStack",
+    "descricao": "Sistema de gerenciamento de configuração baseado em Python, automação remota e orquestração de data centers.",
+    "data_criacao": "2011",
+    "link": "https://www.saltproject.io/",
+    "tags": [
+      "gerenciamento de configuração",
+      "automação",
+      "devops"
+    ]
+  },
+  {
+    "nome": "ArgoCD",
+    "descricao": "Ferramenta de entrega contínua GitOps para Kubernetes, que sincroniza o estado dos aplicativos com o repositório Git.",
+    "data_criacao": "2018",
+    "link": "https://argoproj.github.io/cd/",
+    "tags": [
+      "gitops",
+      "ci/cd",
+      "devops"
+    ]
+  },
+  {
+    "nome": "Tekton",
+    "descricao": "Framework nativo de Kubernetes para a criação de sistemas CI/CD, permitindo pipelines modulares e reutilizáveis.",
+    "data_criacao": "2019",
+    "link": "https://tekton.dev/",
+    "tags": [
+      "ci/cd",
+      "devops",
+      "kubernetes ecosystem"
+    ]
+  },
+  {
+    "nome": "NixOS",
+    "descricao": "Distribuição Linux com um modelo de configuração puramente funcional e declarativo, garantindo builds reprodutíveis e atômicos.",
+    "data_criacao": "2003",
+    "link": "https://nixos.org/",
+    "tags": [
+      "sistema operacional",
+      "gerenciamento de pacotes",
+      "devops",
+      "reprodutibilidade"
+    ]
+  },
+  {
+    "nome": "Grafana",
+    "descricao": "Plataforma de código aberto para análise e visualização de dados de monitoramento, ideal para criação de dashboards interativos.",
+    "data_criacao": "2013",
+    "link": "https://grafana.com/",
+    "tags": [
+      "observabilidade",
+      "monitoramento",
+      "visualização",
+      "devops"
+    ]
+  },
+  {
+    "nome": "Jaeger",
+    "descricao": "Sistema de rastreamento distribuído de código aberto, usado para monitorar e solucionar problemas de microserviços complexos.",
+    "data_criacao": "2015",
+    "link": "https://www.jaegertracing.io/",
+    "tags": [
+      "rastreamento distribuído",
+      "observabilidade",
+      "microserviços"
+    ]
+  },
+  {
+    "nome": "Hugging Face Transformers",
+    "descricao": "Biblioteca para a implementação de modelos de Machine Learning pré-treinados em NLP (Processamento de Linguagem Natural), como BERT e GPT.",
+    "data_criacao": "2018",
+    "link": "https://huggingface.co/docs/transformers/index",
+    "tags": [
+      "machine learning",
+      "nlp",
+      "inteligência artificial"
+    ]
+  },
+  {
+    "nome": "Scikit-learn",
+    "descricao": "Biblioteca de software livre para Machine Learning em Python, que oferece ferramentas simples e eficientes para análise de dados e mineração.",
+    "data_criacao": "2007",
+    "link": "https://scikit-learn.org/",
+    "tags": [
+      "machine learning",
+      "análise de dados",
+      "biblioteca python"
+    ]
+  },
+  {
+    "nome": "gRPC",
+    "descricao": "Framework de chamada de procedimento remoto (RPC) de código aberto, de alto desempenho, que utiliza HTTP/2 para transporte e Protocol Buffers como linguagem de definição de interface.",
+    "data_criacao": "2015",
+    "link": "https://grpc.io/",
+    "tags": [
+      "protocolo de comunicação",
+      "rpc",
+      "microserviços"
+    ]
+  },
+  {
+    "nome": "ZeroMQ",
+    "descricao": "Biblioteca de mensagens assíncronas projetada para aplicações distribuídas de alto desempenho, agindo como um layer de rede e não como um broker de mensagens completo.",
+    "data_criacao": "2007",
+    "link": "https://zeromq.org/",
+    "tags": [
+      "mensageria",
+      "rede",
+      "comunicação distribuída"
+    ]
+  },
+  {
+    "nome": "Domain-Driven Design (DDD)",
+    "descricao": "Metodologia de design de software que foca na criação de um modelo de domínio que reflete a realidade do negócio, utilizando uma linguagem ubíqua.",
+    "data_criacao": "2003",
+    "link": "https://domainlanguage.com/",
+    "tags": [
+      "metodologia",
+      "design de software",
+      "arquitetura"
+    ]
+  },
+  {
+    "nome": "Storybook",
+    "descricao": "Ferramenta de frontend para construir, testar e documentar componentes de UI isoladamente, fora do contexto principal do aplicativo.",
+    "data_criacao": "2016",
+    "link": "https://storybook.js.org/",
+    "tags": [
+      "frontend",
+      "desenvolvimento ui",
+      "testing",
+      "documentação"
+    ]
+  },
+  {
+    "nome": "Redux Toolkit (RTK)",
+    "descricao": "Conjunto de ferramentas oficiais para simplificar o desenvolvimento de aplicações Redux, incluindo utilitários para configurar a store e criar reducers imutáveis.",
+    "data_criacao": "2019",
+    "link": "https://redux-toolkit.js.org/",
+    "tags": [
+      "gerenciamento de estado",
+      "frontend",
+      "biblioteca"
+    ]
+  },
+  {
+    "nome": "Nuxt",
+    "descricao": "Framework de código aberto baseado em Vue.js para criar aplicações web universais, estáticas e de servidor (SSR).",
+    "data_criacao": "2016",
+    "link": "https://nuxt.com/",
+    "tags": [
+      "framework",
+      "meta-framework",
+      "frontend",
+      "SSR"
+    ]
+  },
+  {
+    "nome": "YugabyteDB",
+    "descricao": "Banco de dados distribuído de código aberto, compatível com PostgreSQL e otimizado para microsserviços e resiliência em nuvem.",
+    "data_criacao": "2016",
+    "link": "https://www.yugabyte.com/",
+    "tags": [
+      "banco de dados",
+      "SQL",
+      "distribuído",
+      "cloud native"
+    ]
+  },
+  {
+    "nome": "Groovy",
+    "descricao": "Linguagem dinâmica para a Plataforma Java (JVM), que combina recursos de linguagens de script com a robustez da tipagem estática opcional.",
+    "data_criacao": "2007",
+    "link": "https://groovy-lang.org/",
+    "tags": [
+      "linguagem de programação",
+      "JVM",
+      "scripting"
+    ]
+  },
+  {
+    "nome": "Apache Solr",
+    "descricao": "Plataforma de busca corporativa de código aberto baseada na biblioteca Apache Lucene, oferecendo busca full-text e faceted navigation.",
+    "data_criacao": "2004",
+    "link": "https://solr.apache.org/",
+    "tags": [
+      "busca",
+      "motor de busca",
+      "Apache",
+      "data processing"
+    ]
+  },
+  {
+    "nome": "GitHub Actions",
+    "descricao": "Plataforma de CI/CD integrada ao GitHub para automação de fluxos de trabalho de software, incluindo build, teste e deploy.",
+    "data_criacao": "2018",
+    "link": "https://github.com/features/actions",
+    "tags": [
+      "CI/CD",
+      "DevOps",
+      "automação",
+      "infraestrutura"
+    ]
+  },
+  {
+    "nome": "Zipkin",
+    "descricao": "Sistema de rastreamento distribuído (distributed tracing) usado para coletar dados de latência de diferentes serviços em arquiteturas de microsserviços.",
+    "data_criacao": "2010",
+    "link": "https://zipkin.io/",
+    "tags": [
+      "observabilidade",
+      "tracing",
+      "monitoramento",
+      "DevOps"
+    ]
+  },
+  {
+    "nome": "OCaml",
+    "descricao": "Linguagem de programação funcional com um forte sistema de tipos estáticos, frequentemente utilizada em pesquisa e desenvolvimento de compiladores.",
+    "data_criacao": "1996",
+    "link": "https://ocaml.org/",
+    "tags": [
+      "linguagem de programação",
+      "funcional",
+      "tipagem estática"
+    ]
+  },
+  {
+    "nome": "Vercel",
+    "descricao": "Plataforma de desenvolvimento focada em desempenho e DX (Developer Experience), popular para hospedagem de aplicações frontend e funções serverless (Edge).",
+    "data_criacao": "2015",
+    "link": "https://vercel.com/",
+    "tags": [
+      "cloud",
+      "serverless",
+      "hospedagem",
+      "frontend"
+    ]
+  },
+  {
+    "nome": "Etcd",
+    "descricao": "Armazenamento de chave-valor distribuído e altamente disponível, usado para coordenação e gerenciamento de estado em clusters de máquinas.",
+    "data_criacao": "2013",
+    "link": "https://etcd.io/",
+    "tags": [
+      "banco de dados",
+      "chave-valor",
+      "infraestrutura",
+      "distribuído"
+    ]
+  },
+  {
+    "nome": "OAuth 2.0",
+    "descricao": "Protocolo de autorização padrão da indústria que permite a uma aplicação obter acesso limitado a uma conta de usuário em um serviço HTTP.",
+    "data_criacao": "2012",
+    "link": "https://oauth.net/2/",
+    "tags": [
+      "segurança",
+      "protocolo",
+      "autenticação",
+      "API"
+    ]
+  },
+  {
+    "nome": "Express.js",
+    "descricao": "Framework minimalista e flexível para aplicações web e APIs em Node.js, sendo a base de muitas arquiteturas MEAN/MERN.",
+    "data_criacao": "2010",
+    "link": "https://expressjs.com/",
+    "tags": [
+      "framework",
+      "backend",
+      "web",
+      "API"
+    ]
+  },
+  {
+    "nome": "QEMU",
+    "descricao": "Emulador de máquina open source e virtualizador que permite executar sistemas operacionais e programas criados para uma máquina diferente.",
+    "data_criacao": "2003",
+    "link": "https://www.qemu.org/",
+    "tags": [
+      "virtualização",
+      "emulação",
+      "hardware"
+    ]
+  },
+  {
+    "nome": "Apache Flink",
+    "descricao": "Framework e motor de processamento de fluxo de dados (stream processing) distribuído e de código aberto, usado para computação de estado em tempo real.",
+    "data_criacao": "2010",
+    "link": "https://flink.apache.org/",
+    "tags": [
+      "big data",
+      "streaming",
+      "processamento de dados",
+      "Apache"
+    ]
+  },
+  {
+    "nome": "Envoy",
+    "descricao": "Proxy de borda e service mesh de código aberto projetado para arquiteturas de microsserviços, fornecendo observabilidade, segurança e roteamento.",
+    "data_criacao": "2016",
+    "link": "https://www.envoyproxy.io/",
+    "tags": [
+      "service mesh",
+      "proxy",
+      "infraestrutura",
+      "networking"
+    ]
+  },
+  {
+    "nome": "Mocha",
+    "descricao": "Estrutura de teste de recursos rica para JavaScript, tipicamente utilizada para testes de unidade e integração, rodando em Node.js e no browser.",
+    "data_criacao": "2011",
+    "link": "https://mochajs.org/",
+    "tags": [
+      "testes",
+      "JavaScript",
+      "tooling",
+      "framework"
+    ]
+  },
+  {
+    "nome": "NATS",
+    "descricao": "Sistema de mensagens de código aberto, simples, seguro e de alto desempenho, utilizado para comunicação entre serviços, streaming e queuing.",
+    "data_criacao": "2010",
+    "link": "https://nats.io/",
+    "tags": [
+      "mensageria",
+      "streaming",
+      "infraestrutura",
+      "cloud native"
+    ]
+  },
+  {
+    "nome": "Couchbase",
+    "descricao": "Banco de dados NoSQL distribuído que combina recursos de documento (JSON) e chave-valor, otimizado para aplicações interativas e escaláveis.",
+    "data_criacao": "2010",
+    "link": "https://www.couchbase.com/",
+    "tags": [
+      "banco de dados",
+      "NoSQL",
+      "distribuído",
+      "documento"
+    ]
+  },
+  {
+    "nome": "Perl",
+    "descricao": "Linguagem de programação dinâmica de propósito geral, originalmente otimizada para processamento de texto e scripting de sistema.",
+    "data_criacao": "1987",
+    "link": "https://www.perl.org/",
+    "tags": [
+      "linguagem de programação",
+      "scripting",
+      "legado"
+    ]
+  },
+  {
+    "nome": "Puppet",
+    "descricao": "Ferramenta de gerenciamento de configuração que permite a definição do estado desejado da infraestrutura como código (IaC).",
+    "data_criacao": "2005",
+    "link": "https://puppet.com/",
+    "tags": [
+      "DevOps",
+      "gerenciamento de configuração",
+      "IaC",
+      "automação"
+    ]
+  },
+  {
+    "nome": "Parcel",
+    "descricao": "Bundler de aplicações web rápido e zero-configuração, projetado para facilitar o desenvolvimento moderno de frontend sem a necessidade de arquivos de configuração extensos.",
+    "data_criacao": "2017",
+    "link": "https://parceljs.org/",
+    "tags": [
+      "tooling",
+      "bundler",
+      "frontend",
+      "build tool"
+    ]
+  },
+  {
+    "nome": "Netlify",
+    "descricao": "Plataforma de automação e hospedagem para projetos Jamstack, oferecendo deploy contínuo, CDN global e funções serverless.",
+    "data_criacao": "2014",
+    "link": "https://www.netlify.com/",
+    "tags": [
+      "cloud",
+      "Jamstack",
+      "hospedagem",
+      "serverless"
+    ]
+  },
+  {
+    "nome": "Protocol Buffers (Protobuf)",
+    "descricao": "Mecanismo de Google para serializar dados estruturados de forma eficiente, usado em comunicação entre serviços e armazenamento de dados.",
+    "data_criacao": "2008",
+    "link": "https://developers.google.com/protocol-buffers",
+    "tags": [
+      "serialização",
+      "protocolo",
+      "comunicação",
+      "API"
+    ]
+  },
+  {
+    "nome": "InfluxDB",
+    "descricao": "Banco de dados NoSQL otimizado para séries temporais (Time Series Database), frequentemente usado para armazenar métricas e dados de monitoramento.",
+    "data_criacao": "2013",
+    "link": "https://www.influxdata.com/",
+    "tags": [
+      "banco de dados",
+      "séries temporais",
+      "NoSQL",
+      "monitoramento"
+    ]
+  },
+  {
+    "nome": "Kanban",
+    "descricao": "Metodologia ágil que utiliza um sistema visual para gerenciar o fluxo de trabalho, limitando o trabalho em andamento (WIP) e focando na entrega contínua.",
+    "data_criacao": "2004",
+    "link": "https://kanban.university/",
+    "tags": [
+      "metodologia",
+      "ágil",
+      "gestão de projetos",
+      "DevOps"
+    ]
+  },
+  {
+    "nome": "Preact",
+    "descricao": "Alternativa rápida e pequena ao React, mantendo grande parte da API e oferecendo um tamanho de pacote significativamente menor, focada em performance.",
+    "data_criacao": "2016",
+    "link": "https://preactjs.com/",
+    "tags": [
+      "framework",
+      "frontend",
+      "virtual DOM",
+      "performance"
+    ]
+  },
+  {
+    "nome": "Bicep",
+    "descricao": "Linguagem declarativa e transparente para implantar recursos do Azure (Infraestrutura como Código).",
+    "data_criacao": "2020",
+    "link": "https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview?tabs=bicep",
+    "tags": [
+      "IaC",
+      "Azure",
+      "Microsoft",
+      "DevOps",
+      "Cloud"
+    ]
+  },
+  {
+    "nome": "Spring WebFlux",
+    "descricao": "Framework web reativo e não bloqueante do ecossistema Spring, ideal para aplicações de alta concorrência.",
+    "data_criacao": "2017",
+    "link": "https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html",
+    "tags": [
+      "Framework",
+      "Backend",
+      "Java",
+      "Reativo",
+      "Assíncrono"
+    ]
+  },
+  {
+    "nome": "Supabase",
+    "descricao": "Alternativa open source ao Firebase, fornecendo um Backend-as-a-Service com banco de dados PostgreSQL.",
+    "data_criacao": "2020",
+    "link": "https://supabase.com/",
+    "tags": [
+      "BaaS",
+      "Banco de Dados",
+      "Open Source",
+      "Backend",
+      "Servicos"
+    ]
+  },
+  {
+    "nome": "KubeVirt",
+    "descricao": "Extensão do Kubernetes que permite executar máquinas virtuais completas dentro de contêineres e gerenciá-las usando ferramentas K8s.",
+    "data_criacao": "2019",
+    "link": "https://kubevirt.io/",
+    "tags": [
+      "Virtualizacao",
+      "Kubernetes",
+      "DevOps",
+      "Cloud",
+      "Containers"
+    ]
+  },
+  {
+    "nome": "CloudFormation",
+    "descricao": "Serviço da AWS que permite modelar e provisionar recursos da infraestrutura da nuvem usando código.",
+    "data_criacao": "2011",
+    "link": "https://aws.amazon.com/cloudformation/",
+    "tags": [
+      "AWS",
+      "IaC",
+      "Cloud",
+      "Gerenciamento",
+      "Provisionamento"
+    ]
+  },
+  {
+    "nome": "Nextcloud",
+    "descricao": "Plataforma de colaboração e compartilhamento de arquivos auto-hospedada, oferecendo funcionalidades semelhantes ao Google Drive.",
+    "data_criacao": "2016",
+    "link": "https://nextcloud.com/",
+    "tags": [
+      "Colaboracao",
+      "Servidor",
+      "Open Source",
+      "Nuvem",
+      "Armazenamento"
+    ]
+  },
+  {
+    "nome": "Hono",
+    "descricao": "Framework web ultrarrápido, leve e pequeno para ambientes de borda (edge computing), como Cloudflare Workers e Vercel Edge Functions.",
+    "data_criacao": "2022",
+    "link": "https://hono.dev/",
+    "tags": [
+      "Framework",
+      "Edge Computing",
+      "Backend",
+      "TypeScript",
+      "Performance"
+    ]
+  },
+  {
+    "nome": "MemGPT",
+    "descricao": "Framework para gerenciamento de memória hierárquica em modelos de linguagem grande (LLMs), permitindo diálogos de longa duração.",
+    "data_criacao": "2023",
+    "link": "https://memgpt.ai/",
+    "tags": [
+      "Inteligencia Artificial",
+      "LLM",
+      "Framework",
+      "Pesquisa",
+      "Memoria"
+    ]
+  },
+  {
+    "nome": "MDX",
+    "descricao": "Formato que permite escrever conteúdo Markdown e incluir componentes JSX dinâmicos embutidos.",
+    "data_criacao": "2017",
+    "link": "https://mdxjs.com/",
+    "tags": [
+      "Frontend",
+      "Documentacao",
+      "JSX",
+      "Conteudo",
+      "Ferramenta"
+    ]
+  },
+  {
+    "nome": "Trino",
+    "descricao": "Mecanismo de consulta SQL distribuído e de código aberto, projetado para consultar grandes volumes de dados em diversas fontes.",
+    "data_criacao": "2019",
+    "link": "https://trino.io/",
+    "tags": [
+      "Banco de Dados",
+      "SQL",
+      "Big Data",
+      "Distribuido",
+      "Analise"
+    ]
+  },
+  {
+    "nome": "Babel",
+    "descricao": "Um transpilador JavaScript que transforma código moderno (ES6+) em versões compatíveis com navegadores antigos (ES5).",
+    "data_criacao": "2014",
+    "link": "https://babeljs.io/",
+    "tags": [
+      "Frontend",
+      "Ferramenta",
+      "Transpilador",
+      "JavaScript",
+      "Build"
+    ]
+  },
+  {
+    "nome": "Warp",
+    "descricao": "Emulador de terminal moderno e acelerado por GPU, com foco em produtividade e colaboração.",
+    "data_criacao": "2020",
+    "link": "https://www.warp.dev/",
+    "tags": [
+      "Terminal",
+      "Ferramenta",
+      "Desenvolvimento",
+      "Produtividade",
+      "CLI"
+    ]
+  },
+  {
+    "nome": "Polars",
+    "descricao": "Biblioteca de alto desempenho para manipulação de DataFrames, implementada em Rust e focada em paralelismo.",
+    "data_criacao": "2020",
+    "link": "https://www.pola.rs/",
+    "tags": [
+      "Data Science",
+      "Big Data",
+      "DataFrame",
+      "Analise",
+      "Performance"
+    ]
+  },
+  {
+    "nome": "Microservices",
+    "descricao": "Estilo arquitetural que estrutura uma aplicação como uma coleção de serviços pequenos, fracamente acoplados e implantáveis de forma independente.",
+    "data_criacao": "2011",
+    "link": "https://martinfowler.com/articles/microservices.html",
+    "tags": [
+      "Arquitetura",
+      "Metodologia",
+      "Backend",
+      "Cloud",
+      "Design"
+    ]
+  },
+  {
+    "nome": "Serverless Framework",
+    "descricao": "Kit de ferramentas CLI para construir, empacotar e implantar aplicações serverless em provedores como AWS, Azure e Google Cloud.",
+    "data_criacao": "2015",
+    "link": "https://www.serverless.com/",
+    "tags": [
+      "Serverless",
+      "DevOps",
+      "Ferramenta",
+      "Cloud",
+      "CLI"
+    ]
+  },
+  {
+    "nome": "Knative",
+    "descricao": "Conjunto de componentes do Kubernetes que facilita a construção, implantação e gerenciamento de cargas de trabalho serverless.",
+    "data_criacao": "2018",
+    "link": "https://knative.dev/",
+    "tags": [
+      "Serverless",
+      "Kubernetes",
+      "Cloud",
+      "Abstracao",
+      "Containers"
+    ]
+  },
+  {
+    "nome": "Temporal",
+    "descricao": "Plataforma de orquestração de microsserviços que permite escrever fluxos de trabalho duráveis e tolerantes a falhas como código.",
+    "data_criacao": "2019",
+    "link": "https://temporal.io/",
+    "tags": [
+      "Workflow",
+      "Orquestracao",
+      "Backend",
+      "Confiabilidade",
+      "Sistemas Distribuidos"
+    ]
+  },
+  {
+    "nome": "Flyway",
+    "descricao": "Ferramenta de código aberto para migrações de banco de dados, focada em simplicidade e convenções.",
+    "data_criacao": "2010",
+    "link": "https://flywaydb.org/",
+    "tags": [
+      "Banco de Dados",
+      "Migracao",
+      "DevOps",
+      "Ferramenta",
+      "SQL"
+    ]
+  },
+  {
+    "nome": "OpenTelemetry (OTel)",
+    "descricao": "Padrão aberto para coleta de dados de observabilidade (métricas, logs e rastreamentos) em sistemas distribuídos.",
+    "data_criacao": "2019",
+    "link": "https://opentelemetry.io/",
+    "tags": [
+      "Observabilidade",
+      "Monitoramento",
+      "DevOps",
+      "Padrão",
+      "Telemetry"
+    ]
+  },
+  {
+    "nome": "WebRTC",
+    "descricao": "Projeto de código aberto para habilitar comunicação de áudio, vídeo e dados em tempo real (RTC) entre navegadores e dispositivos.",
+    "data_criacao": "2011",
+    "link": "https://webrtc.org/",
+    "tags": [
+      "Protocolo",
+      "Comunicacao",
+      "Tempo Real",
+      "Streaming",
+      "Frontend"
+    ]
+  },
+  {
+    "nome": "BPF (eBPF)",
+    "descricao": "Tecnologia que permite que programas sejam executados com segurança no kernel do sistema operacional para monitoramento de rede e rastreamento.",
+    "data_criacao": "2014",
+    "link": "https://ebpf.io/",
+    "tags": [
+      "Kernel",
+      "Linux",
+      "Networking",
+      "Performance",
+      "Seguranca"
+    ]
+  },
+  {
+    "nome": "WebSockets",
+    "descricao": "Protocolo que fornece canais de comunicação full-duplex sobre uma única conexão TCP, ideal para comunicação em tempo real.",
+    "data_criacao": "2011",
+    "link": "https://developer.mozilla.org/pt-BR/docs/Web/API/WebSockets_API",
+    "tags": [
+      "Protocolo",
+      "Comunicacao",
+      "Tempo Real",
+      "Networking",
+      "API"
+    ]
+  },
+  {
+    "nome": "Vulkan",
+    "descricao": "API de gráficos 3D e computação de baixo overhead, multiplataforma, que oferece controle direto sobre a GPU.",
+    "data_criacao": "2016",
+    "link": "https://www.vulkan.org/",
+    "tags": [
+      "Graficos",
+      "API",
+      "Jogos",
+      "Performance",
+      "Multiplataforma"
+    ]
+  },
+  {
+    "nome": "LibreNMS",
+    "descricao": "Sistema de monitoramento de rede de código aberto baseado em PHP/MySQL, com suporte a SNMP e descoberta automática.",
+    "data_criacao": "2013",
+    "link": "https://www.librenms.org/",
+    "tags": [
+      "Monitoramento",
+      "Networking",
+      "Open Source",
+      "Ferramenta",
+      "Operacoes"
+    ]
+  },
+  {
+    "nome": "Litmus Chaos",
+    "descricao": "Framework de Chaos Engineering de código aberto para Kubernetes, usado para injetar falhas e validar a resiliência de aplicações.",
+    "data_criacao": "2019",
+    "link": "https://litmuschaos.io/",
+    "tags": [
+      "Chaos Engineering",
+      "Kubernetes",
+      "Confiabilidade",
+      "DevOps",
+      "Testes"
+    ]
+  },
+  {
+    "nome": "Lua",
+    "descricao": "Uma linguagem de script leve, poderosa e incorporável, frequentemente utilizada em desenvolvimento de jogos (ex: Roblox) e sistemas embarcados.",
+    "data_criacao": "1993",
+    "link": "https://www.lua.org/",
+    "tags": [
+      "linguagem de programação",
+      "scripting",
+      "games",
+      "embutida"
+    ]
+  },
+  {
+    "nome": "TiDB",
+    "descricao": "Um banco de dados distribuído de código aberto compatível com MySQL, projetado para escalabilidade horizontal e alta disponibilidade (NewSQL).",
+    "data_criacao": "2016",
+    "link": "https://pingcap.com/products/tidb/",
+    "tags": [
+      "banco de dados",
+      "newsql",
+      "distribuído",
+      "escalabilidade"
+    ]
+  },
+  {
+    "nome": "K3s",
+    "descricao": "Uma distribuição leve e certificada do Kubernetes, projetada para IoT, Edge Computing e ambientes de desenvolvimento.",
+    "data_criacao": "2019",
+    "link": "https://k3s.io/",
+    "tags": [
+      "orquestração",
+      "cloud native",
+      "edge computing",
+      "mini-kubernetes"
+    ]
+  },
+  {
+    "nome": "OpenFaaS",
+    "descricao": "Um framework para construir funções serverless usando Docker e Kubernetes, facilitando a implantação de código como microserviços.",
+    "data_criacao": "2017",
+    "link": "https://www.openfaas.com/",
+    "tags": [
+      "serverless",
+      "funções como serviço",
+      "cloud native",
+      "microserviços"
+    ]
+  },
+  {
+    "nome": "TDD",
+    "descricao": "Test-Driven Development (Desenvolvimento Orientado a Testes) é uma metodologia de desenvolvimento que exige a escrita de testes unitários antes do código de produção.",
+    "data_criacao": "2000",
+    "link": "https://martinfowler.com/bliki/TestDrivenDevelopment.html",
+    "tags": [
+      "metodologia ágil",
+      "qualidade de código",
+      "engenharia de software",
+      "prática de desenvolvimento"
+    ]
+  },
+  {
+    "nome": "Spinnaker",
+    "descricao": "Uma plataforma de entrega contínua de código aberto desenvolvida pela Netflix para lançar mudanças de software com alta velocidade e confiança.",
+    "data_criacao": "2015",
+    "link": "https://spinnaker.io/",
+    "tags": [
+      "ci/cd",
+      "devops",
+      "automação",
+      "entrega contínua"
+    ]
+  },
+  {
+    "nome": "HTMX",
+    "descricao": "Uma biblioteca que permite acessar técnicas modernas de AJAX, CSS Transitions, WebSockets e Server Sent Events usando apenas atributos HTML.",
+    "data_criacao": "2020",
+    "link": "https://htmx.org/",
+    "tags": [
+      "frontend",
+      "desenvolvimento web",
+      "hypermedia",
+      "biblioteca"
+    ]
+  },
+  {
+    "nome": "RethinkDB",
+    "descricao": "Um banco de dados NoSQL de código aberto que foca em empurrar JSON em tempo real para aplicações, descontinuado, mas influente.",
+    "data_criacao": "2009",
+    "link": "https://rethinkdb.com/",
+    "tags": [
+      "banco de dados",
+      "nosql",
+      "json",
+      "tempo real"
+    ]
+  },
+  {
+    "nome": "Raku",
+    "descricao": "Linguagem da família Perl, conhecida por sua rica gramática, concorrência nativa e poderosos recursos de programação metaprogramática.",
+    "data_criacao": "2015",
+    "link": "https://raku.org/",
+    "tags": [
+      "linguagem de programação",
+      "multiparadigma",
+      "alto nível",
+      "concorrência"
+    ]
+  },
+  {
+    "nome": "Nomad",
+    "descricao": "Um orquestrador de workloads simples e flexível da HashiCorp, capaz de gerenciar contêineres e aplicações não-containerizadas em escala.",
+    "data_criacao": "2015",
+    "link": "https://www.nomadproject.io/",
+    "tags": [
+      "orquestração",
+      "devops",
+      "containerização",
+      "agendador de tarefas"
+    ]
+  },
+  {
+    "nome": "vert.x",
+    "descricao": "Um toolkit poliglota e reativo para construir aplicações de alta performance na JVM, focado em escalabilidade e event-driven architecture.",
+    "data_criacao": "2011",
+    "link": "https://vertx.io/",
+    "tags": [
+      "framework backend",
+      "jvm",
+      "reativo",
+      "event-driven"
+    ]
+  },
+  {
+    "nome": "Fedora",
+    "descricao": "Uma distribuição Linux comunitária patrocinada pela Red Hat, servindo como base para a inovação do ecossistema Linux e tecnologias futuras.",
+    "data_criacao": "2003",
+    "link": "https://getfedora.org/",
+    "tags": [
+      "sistema operacional",
+      "linux",
+      "open source",
+      "desktop"
+    ]
+  },
+  {
+    "nome": "CUDA",
+    "descricao": "Uma plataforma de computação paralela e modelo de programação da NVIDIA, essencial para acelerar processamento em GPUs, amplamente usada em IA e HPC.",
+    "data_criacao": "2006",
+    "link": "https://developer.nvidia.com/cuda-zone",
+    "tags": [
+      "hardware",
+      "computação paralela",
+      "inteligência artificial",
+      "gpu"
+    ]
+  },
+  {
+    "nome": "TimescaleDB",
+    "descricao": "Um banco de dados de séries temporais baseado em PostgreSQL, otimizado para ingestão rápida e consultas complexas em grandes volumes de dados baseados em tempo.",
+    "data_criacao": "2017",
+    "link": "https://www.timescale.com/",
+    "tags": [
+      "banco de dados",
+      "séries temporais",
+      "extensão postgres",
+      "observabilidade"
+    ]
+  },
+  {
+    "nome": "Linkerd",
+    "descricao": "Um service mesh ultraleve e rápido para Kubernetes, focado em fornecer observabilidade, segurança e confiabilidade para microserviços.",
+    "data_criacao": "2017",
+    "link": "https://linkerd.io/",
+    "tags": [
+      "service mesh",
+      "kubernetes",
+      "cloud native",
+      "networking"
+    ]
+  },
+  {
+    "nome": "Event Sourcing",
+    "descricao": "Um padrão de arquitetura onde o estado de uma aplicação é determinado por uma sequência de eventos imutáveis armazenados cronologicamente.",
+    "data_criacao": "2005",
+    "link": "https://martinfowler.com/eaaDev/EventSourcing.html",
+    "tags": [
+      "arquitetura de software",
+      "padrão de persistência",
+      "design de sistemas",
+      "eventos"
+    ]
+  },
+  {
+    "nome": "Assembly",
+    "descricao": "Qualquer linguagem de programação de baixo nível que possui uma correspondência muito forte entre as instruções da linguagem e a arquitetura do código de máquina.",
+    "data_criacao": "1949",
+    "link": "https://en.wikipedia.org/wiki/Assembly_language",
+    "tags": [
+      "linguagem de programação",
+      "baixo nível",
+      "sistemas operacionais",
+      "hardware"
+    ]
+  },
+  {
+    "nome": "Bazel",
+    "descricao": "Uma ferramenta de build e teste rápida, escalável e multi-linguagem desenvolvida pelo Google, ideal para projetos grandes e monorepos.",
+    "data_criacao": "2015",
+    "link": "https://bazel.build/",
+    "tags": [
+      "ferramenta de build",
+      "devops",
+      "monorepo",
+      "automação"
+    ]
+  },
+  {
+    "nome": "Apache Spark",
+    "descricao": "Um motor de processamento unificado e rápido para análise de dados em larga escala, frequentemente usado para Big Data e Machine Learning.",
+    "data_criacao": "2014",
+    "link": "https://spark.apache.org/",
+    "tags": [
+      "big data",
+      "processamento de dados",
+      "análise",
+      "data engineering"
+    ]
+  },
+  {
+    "nome": "Metabase",
+    "descricao": "Uma ferramenta de Business Intelligence (BI) de código aberto que permite criar dashboards e visualizar dados de diversas fontes de forma simples.",
+    "data_criacao": "2014",
+    "link": "https://www.metabase.com/",
+    "tags": [
+      "business intelligence",
+      "visualização de dados",
+      "analytics",
+      "ferramenta"
+    ]
+  },
+  {
+    "nome": "Keycloak",
+    "descricao": "Um sistema de gerenciamento de identidade e acesso (IAM) de código aberto que oferece Single Sign-On (SSO), federação e gerenciamento de usuários.",
+    "data_criacao": "2014",
+    "link": "https://www.keycloak.org/",
+    "tags": [
+      "segurança",
+      "autenticação",
+      "iam",
+      "single sign-on"
+    ]
+  },
+  {
+    "nome": "Fortran",
+    "descricao": "Uma linguagem de programação procedural historicamente dominante em computação numérica e científica de alto desempenho.",
+    "data_criacao": "1957",
+    "link": "https://fortran-lang.org/",
+    "tags": [
+      "linguagem de programação",
+      "hpc",
+      "computação científica",
+      "numérica"
+    ]
+  },
+  {
+    "nome": "Packer",
+    "descricao": "Uma ferramenta de código aberto para criar imagens de máquina idênticas para múltiplas plataformas a partir de uma única configuração fonte.",
+    "data_criacao": "2013",
+    "link": "https://www.packer.io/",
+    "tags": [
+      "infraestrutura como código",
+      "devops",
+      "automação",
+      "imagem de máquina"
+    ]
+  },
+  {
+    "nome": "Calico",
+    "descricao": "Uma solução de rede e segurança para contêineres, VMs e hosts, amplamente utilizada com Kubernetes para impor políticas de rede.",
+    "data_criacao": "2014",
+    "link": "https://www.tigera.io/project-calico/",
+    "tags": [
+      "rede",
+      "segurança",
+      "kubernetes",
+      "cloud native"
+    ]
+  },
+  {
+    "nome": "Tyk",
+    "descricao": "Um API Gateway de código aberto e plataforma de gerenciamento de APIs que oferece funcionalidades robustas de segurança, análise e quota limiting.",
+    "data_criacao": "2014",
+    "link": "https://tyk.io/",
+    "tags": [
+      "api gateway",
+      "gerenciamento de api",
+      "microserviços",
+      "backend"
+    ]
+  },
+  {
+    "nome": "GraalVM",
+    "descricao": "Uma máquina virtual de alto desempenho e distribuição universal que pode rodar aplicações escritas em JavaScript, Python, Ruby, R, e linguagens baseadas em JVM (Java, Scala, Kotlin).",
+    "data_criacao": "2018",
+    "link": "https://www.graalvm.org/",
+    "tags": [
+      "máquina virtual",
+      "runtime",
+      "otimização",
+      "JVM"
+    ]
+  },
+  {
+    "nome": "Playwright",
+    "descricao": "Framework de automação para testes de ponta a ponta (E2E) que permite testar aplicações em todos os navegadores modernos (Chromium, Firefox, WebKit) com uma única API.",
+    "data_criacao": "2020",
+    "link": "https://playwright.dev/",
+    "tags": [
+      "testing",
+      "automação",
+      "browser",
+      "devops"
+    ]
+  },
+  {
+    "nome": "Apache HBase",
+    "descricao": "Um banco de dados distribuído de código aberto, não relacional, orientado a colunas, modelado após o BigTable do Google e executado no topo do Hadoop Distributed File System (HDFS).",
+    "data_criacao": "2007",
+    "link": "https://hbase.apache.org/",
+    "tags": [
+      "banco de dados",
+      "NoSQL",
+      "big data",
+      "Hadoop"
+    ]
+  },
+  {
+    "nome": "OpenID Connect (OIDC)",
+    "descricao": "Uma camada de identidade construída sobre o protocolo OAuth 2.0 que permite que clientes verifiquem a identidade do usuário final e obtenham informações básicas de perfil.",
+    "data_criacao": "2014",
+    "link": "https://openid.net/connect/",
+    "tags": [
+      "segurança",
+      "autenticação",
+      "padrão",
+      "protocolo"
+    ]
+  },
+  {
+    "nome": "Scheme",
+    "descricao": "Um dialeto minimalista da linguagem de programação Lisp, conhecido por seu escopo léxico estático e design elegante, frequentemente usado para ensino e pesquisa em computação.",
+    "data_criacao": "1975",
+    "link": "https://schemers.org/",
+    "tags": [
+      "linguagem de programação",
+      "funcional",
+      "Lisp"
+    ]
+  },
+  {
+    "nome": "Apache Avro",
+    "descricao": "Sistema de serialização de dados (RPC) e formato de troca de dados desenvolvido para ambientes Big Data, como Hadoop e Apache Kafka, com foco em schemas definidos por JSON.",
+    "data_criacao": "2009",
+    "link": "https://avro.apache.org/",
+    "tags": [
+      "serialização",
+      "big data",
+      "protocolo",
+      "API"
+    ]
+  },
+  {
+    "nome": "RxJS",
+    "descricao": "Biblioteca para gerenciamento de estado e programação reativa usando Observables, amplamente utilizada em aplicações front-end para lidar com eventos e dados assíncronos.",
+    "data_criacao": "2016",
+    "link": "https://rxjs.dev/",
+    "tags": [
+      "biblioteca",
+      "programação reativa",
+      "frontend",
+      "assincronismo"
+    ]
+  },
+  {
+    "nome": "Behavior-Driven Development (BDD)",
+    "descricao": "Metodologia ágil que encoraja a colaboração entre desenvolvedores, QA e analistas de negócio, definindo testes em linguagem natural (Gherkin) que descrevem o comportamento esperado do software.",
+    "data_criacao": "2003",
+    "link": "https://cucumber.io/docs/bdd/",
+    "tags": [
+      "metodologia",
+      "agile",
+      "testing",
+      "qualidade"
+    ]
+  },
+  {
+    "nome": "Cloud Foundry",
+    "descricao": "Plataforma de código aberto como Serviço (PaaS) para construir, implantar e escalar aplicações de maneira eficiente na nuvem, suportando múltiplas linguagens e frameworks.",
+    "data_criacao": "2011",
+    "link": "https://www.cloudfoundry.org/",
+    "tags": [
+      "PaaS",
+      "cloud computing",
+      "deployment",
+      "plataforma"
+    ]
+  },
+  {
+    "nome": "Unity",
+    "descricao": "Motor de jogo multiplataforma amplamente usado para desenvolver jogos 2D e 3D, simulações, e experiências de realidade virtual e aumentada.",
+    "data_criacao": "2005",
+    "link": "https://unity.com/",
+    "tags": [
+      "game engine",
+      "desenvolvimento de jogos",
+      "3D",
+      "software"
+    ]
+  },
+  {
+    "nome": "CouchDB",
+    "descricao": "Banco de dados NoSQL orientado a documentos que utiliza JSON para armazenar dados, JavaScript para consultas MapReduce e é notável por sua sincronização e replicação robustas (AP na classificação CAP).",
+    "data_criacao": "2005",
+    "link": "https://couchdb.apache.org/",
+    "tags": [
+      "banco de dados",
+      "NoSQL",
+      "documentos",
+      "distribuído"
+    ]
+  },
+  {
+    "nome": "R",
+    "descricao": "Linguagem de programação e ambiente de software livre focado em computação estatística, análise de dados e gráficos, amplamente utilizado em data science e academia.",
+    "data_criacao": "1993",
+    "link": "https://www.r-project.org/",
+    "tags": [
+      "linguagem de programação",
+      "data science",
+      "estatística",
+      "análise de dados"
+    ]
+  },
+  {
+    "nome": "Splunk",
+    "descricao": "Plataforma de software proprietária usada para pesquisar, monitorar e analisar dados gerados por máquinas (logs, métricas) em tempo real, crucial para observabilidade e segurança.",
+    "data_criacao": "2003",
+    "link": "https://www.splunk.com/",
+    "tags": [
+      "observabilidade",
+      "análise de logs",
+      "monitoramento",
+      "segurança"
+    ]
+  },
+  {
+    "nome": "Octopus Deploy",
+    "descricao": "Serviço de automação de deployment e release que facilita a entrega contínua, centralizando o controle de releases complexas em múltiplos ambientes.",
+    "data_criacao": "2011",
+    "link": "https://octopus.com/",
+    "tags": [
+      "deployment",
+      "DevOps",
+      "CI/CD",
+      "automação"
+    ]
+  },
+  {
+    "nome": "Backbone.js",
+    "descricao": "Uma biblioteca JavaScript leve que fornece estrutura para aplicações web, seguindo o padrão Model-View-Presenter (MVP), usando a API RESTful para sincronização.",
+    "data_criacao": "2010",
+    "link": "https://backbonejs.org/",
+    "tags": [
+      "biblioteca",
+      "frontend",
+      "MVC",
+      "JavaScript"
+    ]
+  },
+  {
+    "nome": "Apigee",
+    "descricao": "Plataforma de gerenciamento de API (API Management Platform) fornecida pelo Google, usada para projetar, proteger, publicar e analisar APIs em escala.",
+    "data_criacao": "2004",
+    "link": "https://cloud.google.com/apigee",
+    "tags": [
+      "API management",
+      "gateway",
+      "cloud computing",
+      "segurança"
+    ]
+  },
+  {
+    "nome": "Apache Hive",
+    "descricao": "Sistema de data warehouse construído sobre o Apache Hadoop que fornece um mecanismo de consulta e análise de dados usando uma linguagem SQL-like chamada HiveQL.",
+    "data_criacao": "2011",
+    "link": "https://hive.apache.org/",
+    "tags": [
+      "big data",
+      "data warehouse",
+      "SQL",
+      "Hadoop"
+    ]
+  },
+  {
+    "nome": "SAML",
+    "descricao": "Security Assertion Markup Language (SAML) é um padrão aberto baseado em XML para trocar dados de autenticação e autorização entre um provedor de identidade e um provedor de serviços.",
+    "data_criacao": "2001",
+    "link": "https://saml.info/product-list.html",
+    "tags": [
+      "segurança",
+      "autenticação",
+      "protocolo",
+      "standard"
+    ]
+  },
+  {
+    "nome": "FreeBSD",
+    "descricao": "Sistema operacional Unix-like de código aberto, conhecido por sua estabilidade e recursos avançados de rede e armazenamento, frequentemente usado como base para servidores e appliances de rede.",
+    "data_criacao": "1993",
+    "link": "https://www.freebsd.org/",
+    "tags": [
+      "sistema operacional",
+      "servidor",
+      "Unix",
+      "networking"
+    ]
+  },
+  {
+    "nome": "Ceph",
+    "descricao": "Plataforma de armazenamento distribuído de código aberto, altamente escalável, projetada para fornecer armazenamento de objetos, blocos e arquivos em um único sistema unificado.",
+    "data_criacao": "2006",
+    "link": "https://ceph.io/",
+    "tags": [
+      "armazenamento",
+      "storage",
+      "distribuído",
+      "software-defined"
+    ]
+  },
+  {
+    "nome": "Apache ActiveMQ",
+    "descricao": "Um servidor de mensagens de código aberto e multi-protocolo que suporta padrões como JMS, MQTT, AMQP, permitindo a comunicação assíncrona entre sistemas.",
+    "data_criacao": "2004",
+    "link": "https://activemq.apache.org/",
+    "tags": [
+      "message broker",
+      "middleware",
+      "assíncrono",
+      "integração"
+    ]
+  },
+  {
+    "nome": "CFEngine",
+    "descricao": "Ferramenta de código aberto de gerenciamento de configuração e automação de infraestrutura, focada em manter a conformidade do sistema e a estabilidade em grande escala.",
+    "data_criacao": "1993",
+    "link": "https://cfengine.com/",
+    "tags": [
+      "gerenciamento de configuração",
+      "DevOps",
+      "automação",
+      "infraestrutura"
+    ]
+  },
+  {
+    "nome": "MATLAB",
+    "descricao": "Ambiente de programação e computação numérica desenvolvido pela MathWorks, usado amplamente em engenharia, ciência e finanças para análise de dados e desenvolvimento de algoritmos.",
+    "data_criacao": "1984",
+    "link": "https://www.mathworks.com/products/matlab.html",
+    "tags": [
+      "computação numérica",
+      "engenharia",
+      "software",
+      "algoritmos"
+    ]
+  },
+  {
+    "nome": "KVM",
+    "descricao": "Kernel-based Virtual Machine, uma solução de virtualização de código aberto integrada ao kernel Linux, que transforma o Linux em um hipervisor.",
+    "data_criacao": "2006",
+    "link": "https://www.linux-kvm.org/",
+    "tags": [
+      "virtualização",
+      "hipervisor",
+      "Linux",
+      "infraestrutura"
+    ]
+  },
+  {
+    "nome": "Ada",
+    "descricao": "Linguagem de programação estruturada, estaticamente tipada, projetada para sistemas grandes e críticos que exigem alta confiabilidade e segurança, como aeroespacial e defesa.",
+    "data_criacao": "1980",
+    "link": "https://www.adacore.com/about-ada",
+    "tags": [
+      "linguagem de programação",
+      "sistemas embarcados",
+      "segurança",
+      "sistemas críticos"
+    ]
+  }
+]
